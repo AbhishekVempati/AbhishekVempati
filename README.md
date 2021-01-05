@@ -1,4 +1,4 @@
-### Do what yu will.
+### Do what you will.
 
 - 🔭 Currently working on my personal website.
 - 🌱 Currently learning full-stack web development and data science.
