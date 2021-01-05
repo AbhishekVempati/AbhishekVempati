@@ -1,8 +1,8 @@
 ### Do what yu will.
 
-- 🔭 I’m currently working on my personal website.
-- 🌱 I’m currently learning full-stack web development and data science.
-- 👯 I’m looking to collaborate on ecommerce websites.
-- 🤔 I’m looking for help with my personal website.
-- 💬 Ask me about anything.
+- 🔭 Currently working on my personal website.
+- 🌱 Currently learning full-stack web development and data science.
+- 👯 Looking to collaborate on ecommerce websites.
+- 🤔 Looking for help with my personal website.
+- 💬 Ask me anything.
 - 📫 How to reach me: www.abhishekvempati.com
