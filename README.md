@@ -1,6 +1,6 @@
 ### Do what you will.
 
-- 🔭 Currently working on my personal website.
+- 🔭 Currently working on machine learning projects.
 - 🌱 Learning data science, full-stack web development and decentralized applications.
 - 👯 Looking to collaborate on anything that will help me learn.
 - 🤔 Seeking help with my personal projects.
